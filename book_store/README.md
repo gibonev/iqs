@@ -11,5 +11,5 @@ A bookstore stores all of their inventory in a `inventory.csv` file. They would 
 
 1. What will you do differently if the bookstore is large (e.g. more than 1 million rows)? How can you improve its
    performance?
-2. Could you wrap this into a module, so it can be called via python -m which takes input and output filenames?
+2. Could you make this script executable where it takes inventory and output filenames as command line arguments?
 3. How would write a unit test for this?
