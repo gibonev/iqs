@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "J K Rowling": [
+        {
+          "name": "Harry Potter and the Order of the Phoenix",
+          "year": 2003
+        },
+        {
+          "name": "Harry Potter and the Deathly Hallows",
+          "year": 2007
+        }
+      ]
+    },
+    {
+      "Stephen King": [
+        {
+          "name": "The Outsider",
+          "year": 2018
+        },
+        {
+          "name": "Black House",
+          "year": 2001
+        }
+      ]
+    }
+  ]
+}
