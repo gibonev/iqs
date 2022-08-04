@@ -1,11 +1,11 @@
 # Instructions
 
 ## Base
-A bookstore stores all of their inventory in a csv file. They would like to
+A bookstore stores all of their inventory in a `inventory.csv` file. They would like to
 
 1. Exclude all books that were published before 2000.
 2. Group them by author.
-3. The output should be in json format. It should match ```expected_output.json``` (order is irrelevant)
+3. The output should be in json format. It should match `expected_output.json` (order is irrelevant)
 
 ## Extra Credit
 
